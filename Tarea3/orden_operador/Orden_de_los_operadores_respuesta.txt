@@ -1,0 +1,12 @@
+1. La implementacion correcta es con la funcion f4, pues corresponde a sumar el seno co9n el coseno, el resultado
+   dividirlo entre dos para luego multiplicar por la suma de a mas b.
+
+2. f1 se diferencia de f4 pues el factor 1/2 divide al cos(x) y ademas no se multiplica por (a + b)
+   sino que el solo es coseno multiplicado por a.
+
+   f2 se diferencia de f4 pues solo el coseno se divide por dos y se muyltiplica por (a+b).
+
+   f3 se  diferencia de f4 pues solo el coseno se divide por dos mas el seno y la suma de este resultado 
+   se multiplica por el factor de a y luego a este resultado se lesuma b.
+
+3. Con a = b = 1.0, se llega al mismo resultado.

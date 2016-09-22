@@ -1,0 +1,15 @@
+include<stdio.h>
+#include "funciones.h"
+
+int main(int argc, char *argv[])
+{
+  
+  
+  secuencia_ordenador1();
+
+  secuencia_ordenador2();
+  
+  producto_matriz();
+
+  return 0;
+}
